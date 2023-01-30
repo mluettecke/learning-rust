@@ -1,0 +1,28 @@
+[package]
+name = "rust-by-example"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "formatted-print"
+path = "src/hello_world/formatted-print.rs"
+
+[[bin]]
+name = "display"
+path = "src/hello_world/display.rs"
+
+[[bin]]
+name = "testcase-list"
+path = "src/hello_world/testcase-list.rs"
+
+[[bin]]
+name = "formatting"
+path = "src/hello_world/formatting.rs"
+
+[[bin]]
+name = "tuples"
+path = "src/primitives/tuples.rs"

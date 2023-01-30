@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "rust-book/guessing-game",
+    "rust-book/rectangle",
+    "rust-by-example",
+]
