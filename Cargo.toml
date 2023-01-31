@@ -3,5 +3,7 @@
 members = [
     "rust-book/guessing-game",
     "rust-book/rectangle",
+    "rust-book/temp-convert",
+    "rust-book/fibonacci",
     "rust-by-example",
 ]
