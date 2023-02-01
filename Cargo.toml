@@ -7,4 +7,5 @@ members = [
     "rust-book/fibonacci",
     "rust-book/twelve-days-of-christmas",
     "rust-by-example",
+    "rustlings"
 ]
